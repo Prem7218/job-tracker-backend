@@ -1,0 +1,10 @@
+# Node
+node_modules/
+.env
+npm-debug.log*
+
+# System
+.DS_Store
+
+# VSCode
+.vscode/
